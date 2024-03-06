@@ -1,0 +1,8 @@
+      Employee
+--------------------
+ KAYLING(president)
+ BLAZE(manager)
+ CLARE(manager)
+ JONAS(manager)
+ SCARLET(analyst)
+ ....

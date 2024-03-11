@@ -1,0 +1,22 @@
+aoiusdhvpuzojn
+  aneeskhan@GG-LenovoServer:~/classes/jan-2024/CMR_Proj$ ^C
+aneeskhan@GG-LenovoServer:~/classes/jan-2024/CMR_Proj$ git branch
+  main
+* test
+aneeskhan@GG-LenovoServer:~/classes/jan-2024/CMR_Proj$ ls
+data.xml  file1  login.class  login.java  settings.conf  src  table.info  test  values.txt  variables.json
+aneeskhan@GG-LenovoServer:~/classes/jan-2024/CMR_Proj$ git status
+On branch test
+nothing to commit, working tree clean
+aneeskhan@GG-LenovoServer:~/classes/jan-2024/CMR_Proj$ git log
+commit 0bbb06b725709c64f40fc682f684cabca2d916a3 (HEAD -> test, origin/test)
+Author: Anees Khan <aneeskhan@gamutgurus.com>
+Date:   Wed Mar 6 16:38:41 2024 +0530
+
+    added text in file1
+
+commit 2f089b666405ceecc5ecb5aa2a0db05aca138184
+Author: Anees Khan <aneeskhan@gamutgurus.com>
+Date:   Wed Mar 6 16:31:57 2024 +0530
+
+    test code added
